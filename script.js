@@ -4632,6 +4632,7 @@ const dictionary = [
   "rural",
   "shave",
 ];
+
 const WORD_LENGTH = 5;
 const FLIP_ANIMATION_DURATION = 500;
 const DANCE_ANIMATION_DURATION = 500;
